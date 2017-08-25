@@ -1,0 +1,5 @@
+rootProject.name = 'onwheels'
+
+include 'issue'
+include 'vehicle'
+include 'notification'
